@@ -1,10 +1,4 @@
 <p align="center">
-  <img alt="react-native-parallax-scroll-view" src="http://i.imgur.com/xZQZeL1.jpg" width="1200">
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://www.npmjs.com/package/react-native-parallax-scrollview"><img src="https://img.shields.io/npm/v/react-native-parallax-scrollview.svg?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/react-native-parallax-scrollview"><img src="https://img.shields.io/npm/dm/react-native-parallax-scrollview.svg?style=flat-square"></a>
 </p>
@@ -150,13 +144,6 @@ import ParallaxScrollView from 'react-native-parallax-scrollview';
 | rightIconUnderlayColor | 'transparent' | string | Underlay color for the right icon. |
 | *children* | List View | React Components | Render any react views/components as children and these will be rendered below the headerView |
 
-## Try it out
-
-You can try it out with Exponent [here](https://exp.host/@monte9/parallax-scrollview-example)
-
-### Example
-
-Look at the [`example`](https://github.com/Monte9/react-native-parallax-scrollview/tree/master/example) folder to run the expo app locally.
 
 ## Motivation
 
